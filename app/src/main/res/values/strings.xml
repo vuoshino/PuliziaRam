@@ -3,7 +3,7 @@
     <string name="app_name">Pulizia RAM</string>
     <string name="widget_name">Libera RAM</string>
     <string name="tile_label">Libera RAM</string>
-    <string name="subtitle">Xiaomi Pad 5 · v1.0</string>
+    <string name="subtitle">Xiaomi Pad 5 · v1.1</string>
     <string name="ram_available">RAM disponibile</string>
     <string name="swap_used">Swap usato</string>
     <string name="last_clean">Ultima pulizia</string>

@@ -21,7 +21,7 @@ public class CleanReceiver extends BroadcastReceiver {
             try {
                 Cleaner.Result r = Cleaner.clean(app);
                 String status = r.ok
-                        ? "+" + Cleaner.formatMb(r.freedMb) + " MB · " + Cleaner.formatMb(r.availableMb) + " liberi"
+                        ? "+" + Cleaner.formatMb(r.freedMb) + " MB recuperati"
                         : "Root non disponibile";
                 RamWidget.updateAll(app, status);
                 Cleaner.toast(app, Cleaner.resultMessage(app, r));
