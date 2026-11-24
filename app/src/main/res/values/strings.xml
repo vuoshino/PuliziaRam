@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pulizia RAM</string>
+    <string name="widget_name">Libera RAM</string>
+    <string name="tile_label">Libera RAM</string>
+    <string name="subtitle">Xiaomi Pad 5 · v1.0</string>
+    <string name="ram_available">RAM disponibile</string>
+    <string name="swap_used">Swap usato</string>
+    <string name="last_clean">Ultima pulizia</string>
+    <string name="last_when">Quando</string>
+    <string name="clean_button">Libera memoria</string>
+    <string name="cleaning">Pulizia in corso…</string>
+    <string name="opt_kill_title">Chiudi app in background</string>
+    <string name="opt_kill_desc">Solo quelle che Android considera sicure. Musica e app in uso restano aperte.</string>
+    <string name="opt_compact_title">Compatta la memoria</string>
+    <string name="opt_compact_desc">Riduce la frammentazione della RAM</string>
+    <string name="opt_drop_title">Svuota cache dei file</string>
+    <string name="opt_drop_desc">Sconsigliato: libera RAM ma rende più lente le prossime aperture</string>
+    <string name="footer">Trovi il pulsante anche nella tendina e come widget sulla home</string>
+    <string name="no_root">Root non disponibile. In BakaSU apri Accesso root e attiva Pulizia RAM.</string>
+</resources>
